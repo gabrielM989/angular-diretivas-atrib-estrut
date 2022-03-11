@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* .estyled-btn{
+
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 10px;
+} */
